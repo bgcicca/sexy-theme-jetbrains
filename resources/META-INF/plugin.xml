@@ -22,11 +22,11 @@
           <html>
             <head></head>
             <body>
-              <p>Just a more and beautiful dark theme for JetBrains IDE's.</p>
+              <p>Just a more sexy and beautiful dark theme for JetBrains IDE's.</p>
               <br>
               <p>
                 <img
-                  src="https://raw.githubusercontent.com/kotofeyweb/NewOceanTheme-IntelliJ/main/NewOcean/screenshot_-_combined.png"
+                  src="https://raw.githubusercontent.com/bgcicca/sexy-theme-jetbrains/main/sexy_preview.jpg"
                   alt="Code example"
                   width="450"
                 >
@@ -46,5 +46,6 @@
 
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="sexy" path="/theme/sexy.theme.json"/>
+        <themeProvider id="sexy-high-contrast" path="/theme/sexy_high_contrast.theme.json"/>
     </extensions>
 </idea-plugin>
