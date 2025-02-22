@@ -59,9 +59,9 @@
         <option name="QUESTION_HINT" value="1f2a30" />
         <option name="RECENT_LOCATIONS_SELECTION" value="1b2529" />
         <option name="RIGHT_MARGIN_COLOR" value="1a2d34" />
-        <option name="SELECTED_INDENT_GUIDE" value="3c5066" />
+        <option name="SELECTED_INDENT_GUIDE" value="0e070d" />
         <option name="SELECTED_TEARLINE_COLOR" value="96880" />
-        <option name="SELECTION_BACKGROUND" value="31424d" />
+        <option name="SELECTION_BACKGROUND" value="0e070d" />
         <option name="SEPARATOR_BELOW_COLOR" value="3b4950" />
         <option name="SOFT_WRAP_SIGN_COLOR" value="3b4a57" />
 
@@ -177,7 +177,7 @@
         <option name="BREADCRUMBS_DEFAULT">
             <value>
                 <option name="FOREGROUND" value="607d8b" />
-                <option name="BACKGROUND" value="1e272c" />
+                <option name="BACKGROUND" value="0e070d" />
             </value>
         </option>
         <option name="BREADCRUMBS_HOVERED">

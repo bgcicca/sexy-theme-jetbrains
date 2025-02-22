@@ -5,7 +5,7 @@
   "editorScheme": "sexy.xml",
   "ui": {
     "*": {
-      "selectionBackground": "#41525b",
+      "selectionBackground": "#0e070d",
 
       "infoForeground": "#51646e",
       "windowBorder": "#253641",
@@ -102,7 +102,7 @@
 
     "DefaultTabs": {
       "background": "#0e070d",
-      "hoverBackground": "#2f444f",
+      "hoverBackground": "#0e070d",
       "underlineColor": "#80cbc4",
       "inactiveUnderlineColor": "#80cbc460",
       "underlineHeight": 2,
