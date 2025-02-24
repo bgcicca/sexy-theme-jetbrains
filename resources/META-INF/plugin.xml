@@ -1,12 +1,12 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
     <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
-    <id>sexy</id>
-    <version>1.0.2</version>
+    <id>svelte-themes</id>
+    <version>1.0.5</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
-    <name>Sexy</name>
+    <name>svelte</name>
     <category>UI</category>
 
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
@@ -22,16 +22,16 @@
           <html>
             <head></head>
             <body>
-              <p>Just a more sexy and beautiful dark theme for JetBrains IDE's.</p>
+              <p>Just a more svelte and beautiful dark themes for JetBrains IDE's.</p>
               <br>
               <p>
                 <img
-                  src="https://raw.githubusercontent.com/bgcicca/sexy-theme-jetbrains/main/sexy_preview.jpg"
+                  src="https://raw.githubusercontent.com/bgcicca/svelte-theme-jetbrains/main/svelte_preview.jpg"
                   alt="Code example"
                   width="450"
                 >
                   <img
-                  src="https://raw.githubusercontent.com/bgcicca/sexy-theme-jetbrains/main/sexy_high_contrast.jpg"
+                  src="https://raw.githubusercontent.com/bgcicca/svelte-theme-jetbrains/main/svelte_high_contrast.jpg"
                   alt="Code example"
                   width="450"
                 >
@@ -50,7 +50,7 @@
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider id="sexy" path="/theme/sexy.theme.json"/>
-        <themeProvider id="sexy-high-contrast" path="/theme/sexy_high_contrast.theme.json"/>
+        <themeProvider id="svelte" path="/theme/svelte.theme.json"/>
+        <themeProvider id="svelte-high-contrast" path="/theme/svelte_high_contrast.theme.json"/>
     </extensions>
 </idea-plugin>
